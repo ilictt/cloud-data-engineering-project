@@ -2,7 +2,7 @@
 
 A personal end-to-end data engineering project built with Python, SQL, AWS, and data pipeline technologies.
 
-## technologies
+## Technologies
 
 - Python
 - SQL
