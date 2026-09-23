@@ -24,23 +24,6 @@ A personal data engineering project that collects weather data from the Open-Met
 6. Performs analytical queries using Pandas and DuckDB SQL.
 7. Tests the transformation logic with Pytest.
 
-## Project Structure
-
-cloud-data-engineering-project/
-├── data/
-│   ├── raw/
-│   └── processed/
-├── src/
-│   ├── ingest_weather.py
-│   ├── transform_weather.py
-│   ├── analyze_weather.py
-│   └── analyze_weather_duckdb.py
-├── tests/
-│   └── test_transform_weather.py
-├── .gitignore
-├── requirements.txt
-└── README.md
-
 ## Data Source
 
 Weather data is collected from the [Open-Meteo API](https://open-meteo.com/).
